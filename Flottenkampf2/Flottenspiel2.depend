@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1590024243 source:c:\users\daniel\documents\codeblocks c++\flottenspiel2\cruiser.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+
+1590024243 c:\users\daniel\documents\codeblocks c++\flottenspiel2\ship.h
+
+1590023546 c:\users\daniel\documents\codeblocks c++\flottenspiel2\hunter.h
+	"Ship.h"
+
+1590023545 c:\users\daniel\documents\codeblocks c++\flottenspiel2\cruiser.h
+	"Ship.h"
+
+1590023545 c:\users\daniel\documents\codeblocks c++\flottenspiel2\destroyer.h
+	"Ship.h"
+
+1590024243 source:c:\users\daniel\documents\codeblocks c++\flottenspiel2\destroyer.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+
+1590024243 source:c:\users\daniel\documents\codeblocks c++\flottenspiel2\hunter.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+
+1590023546 source:c:\users\daniel\documents\codeblocks c++\flottenspiel2\ship.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+
+1590068435 source:c:\users\daniel\documents\codeblocks c++\flottenspiel2\main.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+
+1590603127 source:c:\users\daniel\documents\codeblocks c++\flottenkampf2\cruiser.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+	"Battle.h"
+
+1590586215 c:\users\daniel\documents\codeblocks c++\flottenkampf2\ship.h
+
+1590586215 c:\users\daniel\documents\codeblocks c++\flottenkampf2\hunter.h
+	"Ship.h"
+
+1590586214 c:\users\daniel\documents\codeblocks c++\flottenkampf2\cruiser.h
+	"Ship.h"
+
+1590586214 c:\users\daniel\documents\codeblocks c++\flottenkampf2\destroyer.h
+	"Ship.h"
+
+1590603347 source:c:\users\daniel\documents\codeblocks c++\flottenkampf2\destroyer.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+	"Battle.h"
+
+1590682410 source:c:\users\daniel\documents\codeblocks c++\flottenkampf2\hunter.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+	"Battle.h"
+
+1590598397 source:c:\users\daniel\documents\codeblocks c++\flottenkampf2\ship.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+	"Battle.h"
+
+1590682872 source:c:\users\daniel\documents\codeblocks c++\flottenkampf2\battle.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+	"Battle.h"
+
+1590681681 c:\users\daniel\documents\codeblocks c++\flottenkampf2\battle.h
+
+1590511992 source:c:\users\daniel\documents\codeblocks c++\flottenkampf2\main.cpp
+	<iostream>
+	<string>
+	"Ship.h"
+	"Hunter.h"
+	"Cruiser.h"
+	"Destroyer.h"
+	"Battle.h"
+
